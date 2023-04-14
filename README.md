@@ -5,4 +5,4 @@ Project is made using tkinter and openpyxl. The inventory has an interactive Gra
 
 Theme is Forest Dark and is meant to mimic an excel file. 
 
-TCCinvent.py: file with GUI options and excelt sheet manipulation. 
+TCCinvent.py: file with GUI options and excel sheet manipulation. 
